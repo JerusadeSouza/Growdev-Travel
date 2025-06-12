@@ -7,7 +7,14 @@ Aplicando os conhecimentos adquiridos durante as aulas de HTML, CSS e responsivi
 ![hero-image]
 
 ### Features:
-colocar o site que peguei o icone do whatz
+
+![site-badges]
+
+### Construído com
+
+![Badge-Windows]
+![Badge-Visual-Studio]
+
 
 ## Getting Started
 
@@ -31,6 +38,14 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 
 
 <!-- Links -->
+[site-badges]: https://shields.io/badges/static-badge
 
 <!-- Images -->
 [hero-image]: images/heroimage.png
+
+<!-- Badges -->
+
+[Badge-Windows]: https://img.shields.io/badge/WINDOWS-blue?style=flat
+
+[Badge-Visual-Studio]: https://img.shields.io/badge/VISUAL%20STUDIO-blue?style=flat
+
