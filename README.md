@@ -1,15 +1,18 @@
 ## Sobre o projeto
 
-Este projeto foi desenvolvido na formação da GrowDev na Trilha Web Front-end com ReactJS no modulo Fundamentos do Desenvolvimento Front-End.
-O objetivo deste exercicio era criar uma agência de turismo fictícia, conforme layout disponibilizado.
+**Programa Starter+Elas no Front!** Realizado pela [Growdev](https://growdev.com.br/).
+
+Este projeto foi desenvolvido na Trilha Web Front-end com ReactJS no modulo Fundamentos do Desenvolvimento Front-End.
+O objetivo deste exercicio era criar uma **agência de turismo fictícia**, conforme layout disponibilizado.
 Aplicando os conhecimentos adquiridos durante as aulas de HTML, CSS e responsividade. 
 
 ![hero-image]
 
 ### Features:
 
-![site-badges]
-![site-icons]
+- [Site Badges](https://shields.io/badges/static-badge)
+- [Site Icons](https://www.flaticon.com/)
+
 
 ### Construído com
 
@@ -39,6 +42,7 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 
 
 <!-- Links -->
+[site-Growdev]: https://growdev.com.br/
 [site-badges]: https://shields.io/badges/static-badge
 [site-icons]: https://www.flaticon.com/
 
