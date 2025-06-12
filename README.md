@@ -8,8 +8,7 @@ Aplicando os conhecimentos adquiridos durante as aulas de HTML, CSS e responsivi
 
 ### Features:
 
-![site-badges]
-![site-icons]
+
 
 ### Construído com
 
