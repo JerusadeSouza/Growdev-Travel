@@ -9,6 +9,7 @@ Aplicando os conhecimentos adquiridos durante as aulas de HTML, CSS e responsivi
 ### Features:
 
 ![site-badges]
+![site-icons]
 
 ### Construído com
 
@@ -39,6 +40,7 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 
 <!-- Links -->
 [site-badges]: https://shields.io/badges/static-badge
+[site-icons]: https://www.flaticon.com/
 
 <!-- Images -->
 [hero-image]: images/heroimage.png
