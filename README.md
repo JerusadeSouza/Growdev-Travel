@@ -10,8 +10,8 @@ Aplicando os conhecimentos adquiridos durante as aulas de HTML, CSS e responsivi
 
 ### Features:
 
-- [Site Badges](https://shields.io/badges/static-badge)
-- [Site Icons](https://www.flaticon.com/)
+- [Site-Badges]
+- [Site-Icons]
 
 
 ### Construído com
